@@ -1,0 +1,37 @@
+header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:#0B0B0B ;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.navbar-logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    gap: 5px;
+}
+.navbar-list{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+}
+.navbar-carts{
+    display: flex;
+    align-items: center;
+    align-items: center;
+    gap: 20px;
+}
+.navbar-a{
+    color: #8B8E99;
+    font-size: 16px;
+}
+.navbar-a1{
+    color: white;
+}

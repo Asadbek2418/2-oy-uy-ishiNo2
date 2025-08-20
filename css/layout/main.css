@@ -1,0 +1,213 @@
+#hero{
+    padding-top: 100px;
+    padding-bottom: 150px;
+    background-color: #0B0B0B;
+}
+.navbar2-cart h1{
+    color: white;
+    font-size: 64px;
+    margin-top: 30px;
+}
+.navbar2-cart p{
+    font-size: 16px;
+    color: #8B8E99;
+    margin-top: 30px;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar2-form{
+    width: 443px;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+.navbar2-lebel {
+    position: absolute;
+    left: 20px;
+margin-top: 20px;
+}
+.navbar2-button{
+position: absolute;
+right: 5px;
+width:112px ;
+height: 45px;
+background-color:#3858D6 ;
+color: white;
+margin-top: 7px;
+border-radius: 9px;
+
+}
+.navbar2-input{
+   width: 100%;
+    height: 100%;
+    border: none;
+padding-left: 60px;
+border-radius: 15px;
+border: none;
+}
+.hero2-cart{
+    width:354px ;
+    height: 239px;
+    padding-left:41px ;
+    padding-top: 45px;
+    padding-bottom:45px ;
+    background-color:#F6F6F6 ;
+    display: flex;
+    gap:30px ;
+    border-radius: 22px;
+    transition: 0.5s;
+}
+.hero2-cart h1{
+    font-size:36px ;
+    font-size: bold;
+    margin-top:10px ;
+}
+.hero2-ota{
+    padding-top: 73px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 150px;
+}
+.hero2-cart p{
+    font-size: 16px;
+    color:#8B8E99 ;
+}
+.hero2-cart:hover{
+    box-shadow: gray;
+    transform: scale(1.05);
+    background-color: aqua;
+}
+.find{
+    text-align: center;
+    color: #3858D6;
+
+}
+.find2{
+    text-align: center;
+    font-size: 36px;
+}
+.hero2-ota2{
+    padding-top: 90px;
+    padding-bottom: 70px;
+display: flex;
+justify-content: space-between;
+
+}
+.hero2-cart2 h1,  del{
+ margin-top: 35px;  
+ margin-bottom: 10px; 
+ margin-left: 100px;
+}
+.soat{
+   
+    width:250px ;
+    height:280px ;
+margin-left: 40px;
+  margin-top: 30px;
+}
+
+   
+.hero2-cart02{
+    width: 334px;
+    height: 337px;
+    background-color: #F6F6F6;
+  transition: 0.5s;
+}
+.img{
+    margin-left: 110px;
+    top: 10px;
+    right: 10px;
+}
+.savat{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0;
+    transition: 0.5s;
+    
+}
+.hero2-cart2{
+    transition: 0.5s;
+    width: 334px
+    ;position: relative;
+}
+.hero2-cart2:hover .savat{
+    opacity: 1;
+    transform: scale(1.05);
+}
+.hero2-cart2:hover .hero2-cart02{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 5px blue;
+}
+.but{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color:#3858D6 ;
+    margin-left: 450px;
+    margin-top: 60px;
+}
+.findd {
+    text-align: center;
+    margin-top: 150px;
+    color: #3858D6;
+}
+
+.findd2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 36px;
+}
+.what-ota{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.what-cart{
+    width:524px;
+    height: 239px;
+    padding-left: 30px;
+    padding-top: 20px;
+    display: flex;
+    gap: 30px;
+    background-color: #F6F6F6;
+    padding-bottom: 40px;
+    border-radius: 20px;
+
+}
+.what-text{
+    margin-top: 40px;
+}
+.what-cart img{
+border-radius: 5px;
+}
+#hero3{
+    padding-top: 40px;
+    margin-top: 100px;
+    padding-bottom: 40px;
+
+ 
+}
+.subs{
+    font-size: 36px;
+    font-style: bold;
+}
+.pp{
+    color: #8B8E99;
+}
+.navbar4{
+    background-color:#F6F6F6 ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    border-radius: 22px;
+    align-items: center;
+    justify-content: space-between;
+}
