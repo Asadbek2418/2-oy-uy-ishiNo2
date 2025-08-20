@@ -1,1 +1,1 @@
-# 2-oy-uy-ishiNo2
+# Asadbek-uy-ishi-No2
